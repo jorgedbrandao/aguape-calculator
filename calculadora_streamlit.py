@@ -29,7 +29,7 @@ def calcular_dimensionamento(area, tipo_solo, declividade):
 
 
 def main():
-    st.title("Calculadora de Irrigação - Exemplo com Streamlit (macOS)")
+    st.title("Calculadora de Irrigação")
 
     st.write("Preencha os dados para estimar aspersores e tubulação:")
 
