@@ -1,4 +1,4 @@
-import streamlit as st
+loimport streamlit as st
 
 def calcular_dimensionamento(area, tipo_solo, declividade):
     """
@@ -45,7 +45,7 @@ def main():
         st.write(f"- Metros de tubo (aprox.): **{tubos}** m")
 
     st.write("---")
-    st.info("Este é um exemplo ilustrativo. Ajuste a lógica conforme suas necessidades!")
+    st.info("Feito por Jorge mt rápido :)")
 
 
 if __name__ == "__main__":
