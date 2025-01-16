@@ -45,7 +45,7 @@ def main():
         st.write(f"- Metros de tubo (aprox.): **{tubos}** m")
 
     st.write("---")
-    st.info("Feito por Jorge mt rápido :)")
+    st.info("Feito por Jorge mt rapido")
 
 
 if __name__ == "__main__":
